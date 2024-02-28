@@ -5,8 +5,6 @@ Hey! Nice to see you.
 
 I'm AuSjukwa, Frontend developer from GuangZhou, China.
 
-### Skills
----
 <span>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
  </span>
@@ -29,11 +27,11 @@ I'm AuSjukwa, Frontend developer from GuangZhou, China.
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="vuejs"/>
   </span>
 
-
+---
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=94113375" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=94113375&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @AuSjukwa" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=94113375&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=94113375&image_size=auto&color_scheme=dark" width="666" height="auto">
+    <img alt="Dashboard stats of @AuSjukwa" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=94113375&image_size=auto&color_scheme=light" width="666" height="auto">
   </picture>
 </a>
 
