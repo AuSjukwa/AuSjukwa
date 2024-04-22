@@ -5,7 +5,7 @@ Hey! Nice to see you.
 
 I'm AuSjukwa, Frontend developer from GuangZhou, China.
 
-<p align="center">
+<p>
   <samp>
     <a href="https://ausjukwa.github.io">me</a>
   </samp>
